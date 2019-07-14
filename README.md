@@ -4,6 +4,8 @@ Our propresenter opperators kept loosing their mouse on the secondary display, s
 ### Requirements
 *To Run*  
 - OSX (We're on 10.12, but It shouldn't matter as long as you build it on the same version you plan to run it on)  
+- Your second monitor must be in this location:  
+![Monitor Setup](https://raw.githubusercontent.com/BarefootChurch/ScreenLock/master/monitor-setup.jpg)  
 
 *To Build*  
 - XCode command line tools must be installed (`xcode-select --install`)  
